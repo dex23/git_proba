@@ -1,1 +1,1 @@
-Pozdrav iz Prvog fajla..
+Pozdrav iz Prvog fajla sa master grane!
