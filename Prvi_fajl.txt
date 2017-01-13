@@ -1,1 +1,2 @@
 Pozdrav iz Prvog fajla sa master grane!
+... sa moje nove grane
